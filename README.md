@@ -163,9 +163,9 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >
 > <font color=#000000>Draw a duck as an example</font>
 >
-> ![image-20200521114559228](C:\Users\q7549\AppData\Roaming\Typora\typora-user-images\image-20200521114559228.png)
+> ![image-20200521114559228](D:\浏览器下载\DuckPondModel\Java-project\image\image1.png)
 >
-> ![image-20200521114635630](C:\Users\q7549\AppData\Roaming\Typora\typora-user-images\image-20200521114635630.png)
+> ![image-20200521114635630](D:\浏览器下载\DuckPondModel\Java-project\image\image2.png)
 >
 > 
 >
@@ -199,7 +199,7 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >
 > <font color=#000000>Draw the start interface background</font>
 >
-> ![image-20200521114527386](C:\Users\q7549\AppData\Roaming\Typora\typora-user-images\image-20200521114527386.png)
+> ![image-20200521114527386](D:\浏览器下载\DuckPondModel\Java-project\image\image3.png)
 >
 > ```java
 > class MyPanel extends JPanel{
@@ -368,7 +368,7 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >     t_4.start();
 >     ```
 >     
->   ![](C:\Users\q7549\AppData\Roaming\Typora\typora-user-images\image-20200521114716091.png)
+>   ![](D:\浏览器下载\DuckPondModel\Java-project\image\image4.png)
 
 #### Thread
 
