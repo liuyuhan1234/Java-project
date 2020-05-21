@@ -163,9 +163,9 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >
 > <font color=#000000>Draw a duck as an example</font>
 >
-> ![image1](https://github.com/lyufan/Java-project/image/image1.png)
+> ![image1](https://github.com/lyufan/Java-project/blob/master/image/image1.png)
 >
-> ![image2](https://github.com/lyufan/Java-project/image/image2.png)
+> ![image2](https://github.com/lyufan/Java-project/blob/master/image/image2.png)
 >
 > 
 >
@@ -199,7 +199,7 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >
 > <font color=#000000>Draw the start interface background</font>
 >
-> ![image3](https://github.com/lyufan/Java-project/image/image3.png)
+> ![image3](https://github.com/lyufan/Java-project/blob/master/image/image3.png)
 >
 > ```java
 > class MyPanel extends JPanel{
@@ -368,7 +368,7 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >     t_4.start();
 >     ```
 >     
->   ![image4](https://github.com/lyufan/Java-project/image/image4.png)
+>   ![image4](https://github.com/lyufan/Java-project/blob/master/image/image4.png)
 
 #### Thread
 
