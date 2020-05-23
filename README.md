@@ -8,27 +8,27 @@
 >2.  jl1.0.1.jar
 
 #### Directory
->├── .idea 
->├── out 
->├── src 
->│   ├── Board.java
->│   ├── chiefduck.png
->│   ├── Duck.java
->│   ├── duck.png
->│   ├── Constants.java
->│   ├── MainFrame.java
->│   ├── FrameUtil.java
->│   ├── Lily.java
->│   ├── lili.png
->│   ├── LoginMusic.java
->│   ├── RandomGeneator.java
->│   ├── Rock.java
->│   └── rock.png
->├── bg.jpg
->├── bg1.png
->├── bgm.mp3
->├── jl1.0.1.jar
->└── whistle.mp3
+>├── .idea  
+>├── out  
+>├── src  
+>│   ├── Board.java  
+>│   ├── chiefduck.png  
+>│   ├── Duck.java  
+>│   ├── duck.png  
+>│   ├── Constants.java  
+>│   ├── MainFrame.java  
+>│   ├── FrameUtil.java  
+>│   ├── Lily.java  
+>│   ├── lili.png  
+>│   ├── LoginMusic.java  
+>│   ├── RandomGeneator.java  
+>│   ├── Rock.java  
+>│   └── rock.png  
+>├── bg.jpg  
+>├── bg1.png  
+>├── bgm.mp3  
+>├── jl1.0.1.jar  
+>└── whistle.mp3  
 
 #### Model
 There are many rocks and water lilies in a pond.And ducks born, live and die in the pool.The water lilies grow back randomly in the pond.
@@ -163,9 +163,9 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >
 > <font color=#000000>Draw a duck as an example</font>
 >
-> ![image-20200521114559228](D:\浏览器下载\DuckPondModel\Java-project\image\image1.png)
+> ![image1](https://github.com/lyufan/Java-project/blob/master/image/image1.png)
 >
-> ![image-20200521114635630](D:\浏览器下载\DuckPondModel\Java-project\image\image2.png)
+> ![image2](https://github.com/lyufan/Java-project/blob/master/image/image2.png)
 >
 > 
 >
@@ -199,7 +199,7 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >
 > <font color=#000000>Draw the start interface background</font>
 >
-> ![image-20200521114527386](D:\浏览器下载\DuckPondModel\Java-project\image\image3.png)
+> ![image3](https://github.com/lyufan/Java-project/blob/master/image/image3.png)
 >
 > ```java
 > class MyPanel extends JPanel{
@@ -368,7 +368,7 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >     t_4.start();
 >     ```
 >     
->   ![](D:\浏览器下载\DuckPondModel\Java-project\image\image4.png)
+>   ![image4](https://github.com/lyufan/Java-project/blob/master/image/image4.png)
 
 #### Thread
 
