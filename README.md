@@ -379,6 +379,14 @@ When a duck borns, it moves in the pond and when it meets a water lily, it eats 
 >+ `t_2` : Ducks lose weight
 >+ `t_3` : Chief ducks whistle
 >+ `t_4 `: Chief queue
+
+#### Bonus
+
+> + Start panel
 >
-> 
+> + background music
 >
+> + timer
+>
+>   ![image5](https://github.com/lyufan/Java-project/blob/master/image/image5.png)
+
